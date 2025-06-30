@@ -56,7 +56,7 @@ namespace MaskElementsInView
 
 			foreach (Element element in elements)
 			{
-				element.Mask("ReasonForMasking", 20);
+				element.Mask("ReasonForMasking", 30);
 			}
 		}
     }
