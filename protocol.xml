@@ -1,4 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<protocol>
-	<Name>name</Name>
-</protocol>
+<Protocol>
+	<Name>HelloFromGithubUbuntu</Name>
+	<Version>1.0.0.1</Version>
+	<Description>Sample protocol for DataMiner deployment from GitHub Actions.</Description>
+	<Type>Dummy</Type>
+	<Author>Your Name</Author>
+	<Contact>Email@example.com</Contact>
+	<Parameters>
+		<!-- Define protocol parameters here -->
+	</Parameters>
+	<Tables>
+		<!-- Define tables here -->
+	</Tables>
+</Protocol>
